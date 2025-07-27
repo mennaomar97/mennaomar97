@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there! I'm Menna Omar
 
-<!--
-**mennaomar97/mennaomar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Biomedical Engineer* | 💻 *AI & Data Science Student*  
+🚀 *Entry-Level Freelancer* specialized in Machine Learning and Data Analytics  
+📍 Egypt | 🌱 Always learning and evolving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I'm an independent and curious person by nature.  
+A top student with a passion for *mathematics, I chose Biomedical Engineering — and it led me to something I now truly love: **programming and AI*
+
+---
+
+## 🤝 Connect with Me
+
+- 📧 Email: mennatullah.omar97@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/menna-omar-36b26515a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+---
+
+> *"True success is becoming the best version of yourself."* 🚀
